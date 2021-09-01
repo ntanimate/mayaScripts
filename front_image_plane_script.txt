@@ -1,4 +1,4 @@
-#This script creates an image plane and positions the image in front camera view
+#This python script creates an image plane and positions the image in front camera view
 #Make sure the image is saved in the file path maya/projects/projectName/images folder
 import maya.cmds
 
