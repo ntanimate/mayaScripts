@@ -1,0 +1,15 @@
+#This script creates an image plane and positions the image in front camera view
+#Make sure the image is saved in the file path maya/projects/projectName/images folder
+import maya.cmds
+
+#Sets camera position of image to front
+cmds.imagePlane (lookThrough = "front")
+
+#Sets type of file to 'image'. Can also be movie (1), texture (2)
+cmds.setAttr('imagePlaneShape1.type',0) 
+
+#Moves the image up 
+cmds.move(0,5, 0)
+
+#Input file name after images to load the image on the plane
+cmds.setAttr('imagePlaneShape1.imageName', 'images/Filename', type = 'string')
