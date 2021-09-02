@@ -1,5 +1,8 @@
-#This python script creates an image plane and positions the image in front camera view
+#This script creates an image plane and positions the image in front camera view
 #Make sure the image is saved in the file path maya/projects/projectName/images folder
+#Before running the script in a new Maya scene, you must replace 'Filename' in the step below "Input file name" with the image name path, example "dispenser_bottle.png" Then copy and paste the script below #including the image path into python script window and run the script. You can also drag and drop the script to your Maya shelf but a new image path will need to be added to load a new image.
+
+####Copy and paste Script below
 import maya.cmds
 
 #Sets camera position of image to front
@@ -11,5 +14,5 @@ cmds.setAttr('imagePlaneShape1.type',0)
 #Moves the image up 
 cmds.move(0,5, 0)
 
-#Input file name after images to load the image on the plane
+#Input file name after images to load the image on the plane. Replace 'Filename' with name of image file and don't forget to include .png or .jpg
 cmds.setAttr('imagePlaneShape1.imageName', 'images/Filename', type = 'string')
