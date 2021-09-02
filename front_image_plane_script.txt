@@ -1,4 +1,4 @@
-#This script creates an image plane and positions the image in front camera view
+#This python script creates an image plane and positions the image in front camera view in Maya 2022. 
 #Make sure the image is saved in the file path maya/projects/projectName/images folder
 #Before running the script in a new Maya scene, you must replace 'Filename' in the step below "Input file name" with the image name path, example "dispenser_bottle.png" Then copy and paste the script below #including the image path into python script window and run the script. You can also drag and drop the script to your Maya shelf but a new image path will need to be added to load a new image.
 
