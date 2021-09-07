@@ -1,6 +1,9 @@
 
 # mayaScripts
 
+<details><summary>READ ME</summary>
+<p>
+
 PURPOSE:
 These scripts were created using version Maya 2022 and Python 3. I am a beginner coder and 3D animator so any feedback is welcome. These scripts have helped me with faster workflows in my classes.  
 
@@ -16,6 +19,6 @@ As an aspiring TD in production or gaming I took classes through CGMA to learn M
 
 3. The script for mixamo T-rig pose was created to shorten set up time for animating my robot character using a mixamo rig. Since the characters have to always start in T-pose, this script will come in handy for repeating manual set up steps. I wanted to also script the mapping assignment of joints in humanIK but this script was more complex so unfortunately this part is still done manually. 
 
-Credit to David Mooy for teaching the class on Introduction to Maya: 
+Credit to David Mooy for teaching the class on Introduction to Maya
 
 
