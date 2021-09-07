@@ -17,7 +17,7 @@ GOAL 2: <b>Following goal 1, the same script helps with creating efficiency of t
   - Scenario 2: Using this script in conjunction with the CV curve tool to quickly trace bottles for a scene. If I need to make quite a few different bottles, this script will help shorten the setup time.
   - Scenario 3: Using this script for modeling a lotion bottle to block out the shape using geometry
 
-GOAL 3: <b>The script for mixamo T-rig pose was created to shorten set up time for animating my robot character using a mixamo rig.</b> Since the characters have to always start in T-pose, this script will come in handy for avoding repition of manual set up steps. I wanted to also script the mapping assignment of joints in humanIK but this script was more complex so unfortunately this would have to be done in a refactor once I understood more.
+GOAL 3: <b>The script for mixamo T-rig pose was created to shorten set up time for animating my robot character using a mixamo rig.</b> Since the characters have to always start in T-pose, this script will come in handy for avoiding repition of manual set up steps. I wanted to also script the mapping assignment of joints in humanIK but this script was more complex so unfortunately this would have to be done in a refactor once I understood more.
 
 Credit to David Mooy for teaching the class on Introduction to Maya
 
