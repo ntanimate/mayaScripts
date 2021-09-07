@@ -8,7 +8,7 @@ PURPOSE:
 These scripts were created using version Maya 2022 and Python 3. I am a beginner coder and 3D animator so any feedback is welcome. These scripts have helped me with faster workflows in my classes. All scripts can be middle mouse dragged and converted into shelf buttons for easy access.
 
 GOALS:
-As an aspiring TD in production or gaming I took classes through CGMA to learn Maya and other 3D animation software. The code is heavily commented because they are intended as tools for animation or modeling students who do not typically look at the MEL user interface. I created small scripts with the intent of solving a few challenges I faced in Maya as well as optimizing the workflow for modelers and animators:
+As an aspiring TD in production or gaming I took classes through CGMA to learn Maya and other 3D animation software. The code is heavily commented because they are intended as tools for animation or modeling students who do not typically look at the MEL or python script editor. I created small scripts with the intent of solving a few challenges I faced in Maya as well as optimizing the workflow for modelers and animators:
 
 GOAL 1: As a beginner, the Maya interface has a lot of new tools. An example is the image plane which you cannot pull up by searching the help menu in Maya. I created the front facing camera view image plane script so I wouldn't have to remember where the image plane button is located. <b>This will help me or other beginners new to Maya when we can't remember where this tool is that is often used for setting up a model.</b>
 
