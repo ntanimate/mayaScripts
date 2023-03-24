@@ -23,6 +23,8 @@ GOAL 4: The scripts for the autorig_leg an autorig_arm scripts were created sepa
 
 GOAL 5: Familiarizing myself further with the Maya Python API and creating an autorig, I added the ball_autorig script. This is mainly used for reference for building other autorig tools and will help me with refactoring my leg and arm scripts, in addition to building a complete autorig in the future.  
 
-Credit to David Mooy for teaching the class on Introduction to Maya and Chris Zurbrigg for tutorials on creating tools in the Maya Python API.
+Credit to: David Mooy for teaching the class on Introduction to Maya and sparking my curiosity in coding
+           Chris Zurbrigg for tutorials on creating tools in the Maya Python API.
+           Alexander Richter, TD for my Maya Python class
 
 
