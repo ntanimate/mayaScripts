@@ -19,7 +19,9 @@ GOAL 2: <b>Following goal 1, the same script helps with creating efficiency of t
 
 GOAL 3: <b>The script for mixamo T-rig pose was created to shorten set up time for animating my robot character using a mixamo rig.</b> Since the characters have to always start in T-pose, this script will come in handy for avoiding repition of manual set up steps. I wanted to also script the mapping assignment of joints in humanIK but this script was more complex so unfortunately this would have to be done in a refactor once I understood more.
 
-GOAL 4: Familiarizing myself with the Maya Python API and creating an autorig, I added the ball_autorig script. This is mainly used for reference for building other autorig tools. 
+GOAL 4: The scripts for the autorig_leg an autorig_arm scripts were created separately for me to learn the differences between the two workflows. The scripts are part of a button UI script that allows each function to run on button presses. 
+
+GOAL 5: Familiarizing myself further with the Maya Python API and creating an autorig, I added the ball_autorig script. This is mainly used for reference for building other autorig tools and will help me with refactoring my leg and arm scripts, in addition to building a complete autorig in the future.  
 
 Credit to David Mooy for teaching the class on Introduction to Maya and Chris Zurbrigg for tutorials on creating tools in the Maya Python API.
 
